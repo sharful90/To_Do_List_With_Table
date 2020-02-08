@@ -1,0 +1,51 @@
+.wrapper {
+  width: 460px;
+  margin: auto;
+}
+.myClass {
+  width: 452px;
+  margin: auto;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.wrapper input {
+  padding: 9px 5px;
+  width: 355px;
+  outline: none;
+  border-radius: 10px;
+  border: 2px solid #ffa500;
+}
+
+.wrapper button {
+  padding: 12px;
+  background: orange;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+ul {
+  width: 220px;
+}
+li {
+  list-style: none;
+  margin-top: 20px;
+}
+.del {
+  text-align: center;
+}
+.tbl {
+  margin-top: 26px;
+  width: 94%;
+}
+.tbl th {
+  background: #ff9800;
+  color: white;
+  font-size: 18px;
+}
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 8px 30px;
+}
